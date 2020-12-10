@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.joining;
 
-//BBM465-Project 1- Group 15
+
 public class BBMcrypt {
     /*
     Check the given string out and pad it if needed
